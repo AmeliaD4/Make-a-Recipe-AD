@@ -1,0 +1,26 @@
+<!--Full credit to Raspberry Pi Foundation for task -->
+<html>
+
+  <head>
+    <!--remember the tags to put in.-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" type="image/png" href="Favicon.png">
+    <link rel="stylesheet" href="_Style.css" rel="stylesheet" type="text/css" />
+    <title>Make A Recipe A.D</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  
+  <!--insert all HTML code inbetween the body tags-->
+  <body>
+   <h1>Thomas A. Edison CTE HS</h1>
+    <h2>Web Design Academy</h2> 
+    <h3>Make-A-Recipe</h3>
+    <h4>Amelia Davy</h4>
+    <h5>10/17/23</h5>
+   
+<h2>Cake mix cookie</h2>
+
+  </body>
+  
+</html>
